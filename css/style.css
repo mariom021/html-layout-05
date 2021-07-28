@@ -1,0 +1,52 @@
+
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.header_bar{
+    background-color: chartreuse;
+    width: 100%;
+    height: 180px;
+    text-align: center;
+}
+.menu{
+    background-color: darkred;
+    width: 40%;
+    height: 600px;
+    text-align: center;
+    float: left;
+}
+.article_1{
+    background-color: green;
+    width: 60%;
+    height: 200px;
+    float: right;
+    text-align: center;
+    
+}
+.article_2{
+    background-color: hotpink;
+    width: 60%;
+    height: 200px;
+    float: right;
+    text-align: center;
+
+}
+.article_3{
+    background-color: indigo;
+    width: 60%;
+    height: 200px;
+    float: right;
+    text-align: center;
+
+}
+
+.footer_bar{
+    background-color: orangered;
+    width: 100%;
+    height: 150px;
+    text-align: center;
+    float: left;
+}  
+
+
